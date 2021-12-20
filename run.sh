@@ -1,2 +1,2 @@
-gcc -o test test.c 
+gcc -o ct ct.c 
 ./test
